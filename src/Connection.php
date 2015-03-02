@@ -1,5 +1,6 @@
 <?php namespace Clowdy\Database;
 
+use Illuminate\Database\QueryException;
 use Illuminate\Database\Connection as IlluminateConnection;
 
 class Connection extends IlluminateConnection
