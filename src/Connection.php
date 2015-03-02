@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Connection as IlluminateConnection;
 
-class Connection extends IlluminateConnection implements ConnectionInterface
+class Connection extends IlluminateConnection
 {
     /**
      * Determine if the given exception was caused by a lost connection.
