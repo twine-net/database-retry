@@ -1,7 +1,7 @@
 {
     "name": "clowdy/database-retry",
     "description": "Laravel 4 database retry improvements",
-    "keywords": ["laravel", "database", "cache"],
+    "keywords": ["laravel", "database", "retry"],
     "license": "MIT",
     "authors": [
         {
